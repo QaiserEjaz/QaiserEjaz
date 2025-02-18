@@ -39,23 +39,12 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight" alt="qaiserejaz GitHub Stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="qaiserejaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&" alt="qaiserejaz" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&currStreakNum=F79C42&sideNums=F79C42&dates=F79C42&background=1D1F2D&border_radius=5" alt="qaiserejaz" /></p>
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="qaiserejaz" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
-
-
-
-
 
 <h3 align="left">Let's Socialize:</h3>
 <p align="left">
@@ -109,4 +98,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+
+---
+
+⭐ **Feel free to connect and collaborate!** 🚀
 
