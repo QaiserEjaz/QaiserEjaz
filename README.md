@@ -6,7 +6,8 @@
 
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF" align="right">
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF" align="right"> -->
+<img src="./Coding.gif" width="300" alt="Coding GIF" align="right">
   
 -   💻 Frontend Developer | React Enthusiast
 -   🎯 Passionate about web development, UI/UX, and problem-solving.
