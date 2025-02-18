@@ -1,35 +1,69 @@
 <h1 align="center">Hi 👋, I'm Qaiser Ejaz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qaiserejaz&label=Profile%20views&color=0e75b6&style=flat" alt="qaiserejaz" /> </p>
+ 
+ 
+## 🚀 About Me                <img src="https://komarev.com/ghpvc/?username=qaiserejaz&label=Profile%20views&color=0e75b6&style=flat" alt="qaiserejaz" align="right" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=qaiserejaz" alt="qaiserejaz" /> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/qaisersidd" target="blank"><img src="https://img.shields.io/twitter/follow/qaisersidd?logo=twitter&style=for-the-badge" alt="qaisersidd" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack**
-
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF" align="right">
+  
+-   💻 Frontend Developer | React Enthusiast
+-   🎯 Passionate about web development, UI/UX, and problem-solving.
+-   🌱 Currently learning backend technologies to become a Full-Stack Developer.
 - 💬 Ask me about **JavaScript, ReactJS, NodeJs, mongoDB**
-
 - 📫 How to reach me **qaiserejaz125@gmail.com**
+</div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br>
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/qaiserejaz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/qaiserejaz" target="blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/qaiserejaz" target="blank"><img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.hackerrank.com/qaiserejaz" target="blank"><img src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank"></a>
+  <a href="https://www.hackerearth.com/@qaiserejaz" target="blank"><img src="https://img.shields.io/badge/HackerEarth-blue?style=for-the-badge&logo=hackerearth"></a>
+  <a href="https://x.com/qaisersidd" target="blank"><img src="https://img.shields.io/badge/X.Com-black?style=for-the-badge&logo=x" /></a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qaiserejaz&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight" alt="qaiserejaz GitHub Stats" />
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="qaiserejaz" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
+
+
+
+
+
+<h3 align="left">Let's Socialize:</h3>
 <p align="left">
   <a href="https://codepen.io/qaiserejaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="qaiserejaz" height="30" width="40" />
   </a>
   <a href="https://dev.to/qaiserejaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="qaiserejaz" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/qaisersidd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qaisersidd" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/qaiser-ejaz-s125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qaiser-ejaz-s125" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/qaiser-ejaz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="qaiser-ejaz" height="30" width="40" />
@@ -55,15 +89,6 @@
   <a href="https://medium.com/@qaiserejaz125" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@qaiserejaz125" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/@qaiserejaz125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@qaiserejaz125" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/@qaiserejaz125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@qaiserejaz125" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@qaiserejaz125" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@qaiserejaz125" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -85,8 +110,3 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&locale=en&layout=compact" alt="qaiserejaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&locale=en" alt="qaiserejaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&" alt="qaiserejaz" /></p>
