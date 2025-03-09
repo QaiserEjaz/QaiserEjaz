@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qaiserejaz&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qaiserejaz&theme=algolia&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
