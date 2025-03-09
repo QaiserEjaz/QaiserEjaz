@@ -43,10 +43,18 @@
 ---
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="qaiserejaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=tokyonight&locale=en" alt="qaiserejaz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="qaiserejaz" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=algolia&locale=en" alt="qaiserejaz" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&" alt="qaiserejaz" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&currStreakNum=F79C42&sideNums=F79C42&dates=F79C42&background=1D1F2D&border_radius=5" alt="qaiserejaz" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&currStreakNum=F79C42&sideNums=F79C42&dates=F79C42&background=1D1F2D&border_radius=5" alt="qaiserejaz" /></p> -->
+<div>
+  <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
+  <img height="140em" src="https://streak-stats.demolab.com?user=qaiserejaz&theme=algolia" alt="GitHub Streak" />  
+  </div>
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" /> 
+  </div>
+</div>
 
 ---
 
