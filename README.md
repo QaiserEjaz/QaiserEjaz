@@ -10,7 +10,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding GIF" align="right">
 <!-- <img src="/Coding.gif" width="350" alt="Coding GIF" align="right"> -->
   
--   💻 Frontend Developer | React Enthusiast
+-   💻 Frontend Developer | Tech Enthusiast
 -   🎯 Passionate about web development, UI/UX, and problem-solving.
 -   🌱 Currently learning backend technologies to become a Full-Stack Developer.
 - 💬 Ask me about **JavaScript, ReactJS, NodeJs, mongoDB**
