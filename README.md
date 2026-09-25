@@ -44,17 +44,22 @@
 ---
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="qaiserejaz" /></p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=algolia&locale=en" alt="qaiserejaz" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&" alt="qaiserejaz" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&currStreakNum=F79C42&sideNums=F79C42&dates=F79C42&background=1D1F2D&border_radius=5" alt="qaiserejaz" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaiserejaz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="qaiserejaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&theme=algolia&locale=en" alt="qaiserejaz" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&" alt="qaiserejaz" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiserejaz&currStreakNum=F79C42&sideNums=F79C42&dates=F79C42&background=1D1F2D&border_radius=5" alt="qaiserejaz" /></p> -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=QaiserEjaz&custom_title=Qaiser%20Ejaz%27s%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=QaiserEjaz&custom_title=Qaiser%20Ejaz%27s%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=algolia)
+
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=QaiserEjaz&layout=donut&langs_count=10&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=QaiserEjaz&layout=donut&langs_count=10&theme=algolia)
 <div>
   <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
-  <img height="140em" src="https://streak-stats.demolab.com?user=qaiserejaz&theme=algolia" alt="GitHub Streak" />  
+  <img height="185em" src="https://streak-stats.demolab.com?user=qaiserejaz&theme=algolia" alt="GitHub Streak" />  
   </div>
- <div>
+ <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=qaiserejaz&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" /> 
-  </div>
+  </div> -->
 </div>
 
 ---
